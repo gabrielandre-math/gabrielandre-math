@@ -60,6 +60,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/gabrielandre-math/gabrielandre-math/output/snake.svg" alt="Snake animation" />
 
 ###
