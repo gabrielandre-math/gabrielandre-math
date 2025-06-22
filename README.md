@@ -1,20 +1,7 @@
 # Gabriel André
-**Full Stack Developer | Data Science Enthusiast | Brazil**
+**Full Stack Developer | UI/UX | Brazil**
 
----
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielandre-math&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielandre-math&theme=dark&hide_border=true&layout=compact&langs_count=8" height="165" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielandre-math&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
 
 ## 🛠️ Tech Stack
 
