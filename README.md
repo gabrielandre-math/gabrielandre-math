@@ -1,5 +1,5 @@
 # Gabriel André
-**Software Engineer** | .NET & React Specialist | Rio de Janeiro, Brazil
+**Software Engineer** | .NET & React Developer | Rio de Janeiro, Brazil
 
 ---
 
