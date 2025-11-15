@@ -13,7 +13,7 @@ Acredito que as melhores soluções técnicas nascem de um profundo entendimento
 
 ---
 
-## 💻 Tecnologias e Ferramentas
+##  Tecnologias e Ferramentas
 
 Minha stack principal inclui, mas não se limita a:
 
@@ -51,7 +51,7 @@ Minha stack principal inclui, mas não se limita a:
 
 ---
 
-## 📫 Contato
+##  Contato
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gabrielandredev/" target="_blank">
